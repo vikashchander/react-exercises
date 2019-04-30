@@ -1,0 +1,8 @@
+.Coin img {
+    margin-left: 630px;
+    text-align: inherit;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+}
