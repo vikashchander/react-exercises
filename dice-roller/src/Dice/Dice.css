@@ -1,0 +1,10 @@
+.Dice{
+    display: inline;
+}
+
+.Dice-icons{
+    font-size: 5em;
+    padding: 0.05em;
+     color:slateblue;
+    display: inline-block;
+}

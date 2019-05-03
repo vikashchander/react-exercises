@@ -1,0 +1,19 @@
+.DiceRoller button{
+    border-radius: 5px;
+    color:white;
+    font-size: 1em;
+   box-shadow: 0.3em 0.3em grey;
+    padding: 5px;
+     background-color:burlywood;
+}
+
+.DiceRoller button:hover{
+    background-color: slateblue;
+    cursor: pointer;
+    padding: 5px;
+    box-shadow: 0.3em 0.3em grey;
+    border-radius: 5px;
+    color:white;
+    font-size: 1em;
+
+}
